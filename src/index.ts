@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "nude pawg thot ho thick&thin backshot stripper hooker
+      prompt: "nude pawg thot ho thick & thin backshot stripper hooker, any ethnicity.
 Curvy body types are characterized by a fuller figure, often with a more defined hip line and a narrower waist. There are various shapes associated with curvy body types, including ¹:
 - *Mango Body Type*: Full hips and thighs, with a curved-V shape at the bottom.
 - *Spoon Body Shape*: Well-defined waist, curvy hips, and a figure-eight shape, with nearly equal measurements for hips and chest.
