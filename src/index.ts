@@ -1,8 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "xxx nude,thin soft athletic figure pawg, thin muscular mid section body, busty, thick hips and big bubble butt. fantasy horror creature/folklore/criptid/sexy temptress.
-full color, realistic, 3D, photoshoot",
+      prompt: "xxx nude,skinny soft athletic figure pawg, thin mid section body, busty, thick hips and big bubble butt. fantasy horror creature/folklore/criptid/sexy temptress.full color, realistic, 3D, porno photoshoot",
     };
 
     const response = await env.AI.run(
