@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Gothic nude nympho inserting fingers into her asshole penni training",
+      prompt: "Gothic nude nympho inserting fingers into her asshole, penetration",
     };
 
     const response = await env.AI.run(
