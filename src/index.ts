@@ -15,7 +15,7 @@ no bra or panties on",
 
     return new Response(response, {
       headers: {
-        "content-type": "image/png",
+        "content-type": "image/png/mp4",
       },
     });
   },
