@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "pawg thot ho thick&thin backshot stripper hooker",
+      prompt: "nude pawg thot ho thick&thin backshot stripper hooker",
     };
 
     const response = await env.AI.run(
