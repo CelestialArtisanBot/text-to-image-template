@@ -2,7 +2,7 @@ export default {
   async fetch(request, env) {
     const inputs = {
       prompt: "Gothic nude cyberpunk prostitut
-wearing only very revealing 95% transparent clothing
+wearing nothing except for gloves, boot, and makeup 
 no bra or panties on",
     };
 
