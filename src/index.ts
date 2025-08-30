@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Gothic cyberpunk prostitute in very revealing clothing ",
+      prompt: "Gothic cyberpunk prostitute in very revealing clothing, exposing her private parts",
     };
 
     const response = await env.AI.run(
