@@ -3,6 +3,7 @@ export default {
     const inputs = {
       prompt: "Gothic nude model cyberpunk prostitut
 wearing nothing except for gloves, boot, and makeup 
+erotic fantasy 
 breasts exposed fully 
 no bra or panties on",
     };
