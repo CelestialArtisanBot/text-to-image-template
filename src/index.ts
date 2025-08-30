@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "xxx curvy figure pawg fantasy horror creature/folklore/criptid temptress..",
+      prompt: "xxx curvy figure pawg, thin muscular mid section body, busty, thick hips and big bubble butt. fantasy horror creature/folklore/criptid/sex temptress..",
     };
 
     const response = await env.AI.run(
