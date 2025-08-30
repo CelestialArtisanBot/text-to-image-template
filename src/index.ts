@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "xxx sexy horror art, beautiful and deadly mermaid temptress..",
+      prompt: "xxx nude sexy horror art, beautiful and deadly mermaid temptress ..",
     };
 
     const response = await env.AI.run(
