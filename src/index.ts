@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Hentai, anal, adult content, popular cartoons",
+      prompt: " anal, adult content, sex",
     };
 
     const response = await env.AI.run(
