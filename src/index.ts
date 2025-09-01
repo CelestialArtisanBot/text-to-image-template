@@ -1,12 +1,8 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Gothic nude model cyberfantacy prostitut
-wearing nothing except for gloves, boot, and makeup 
-erotic fantasy 
-breasts exposed fully 
-no bra or panties on",
-    };
+  prompt: "A high-resolution, full 3D rendering of **[Nintendo/Sony/Microsoft/jagex character]** in a realistic style, detailed cinematic lighting, and a dynamic pose that captures the character's essence. The scene is a mix of sci-fi and fantastical elements, with a vibrant color palette.",
+};
 
     const response = await env.AI.run(
       "@cf/stabilityai/stable-diffusion-xl-base-1.0",
@@ -15,7 +11,7 @@ no bra or panties on",
 
     return new Response(response, {
       headers: {
-        "content-type": "image/png/GIF",
+        "content-type": "image/png",
       },
     });
   },
