@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Gothic nude model cyberpunk prostitut
+      prompt: "Gothic nude model cyberfantacy prostitut
 wearing nothing except for gloves, boot, and makeup 
 erotic fantasy 
 breasts exposed fully 
